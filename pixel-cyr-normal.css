@@ -1,0 +1,10 @@
+/*****************************
+ All rights reserved.
+ AllFont.ru (c) 2011-2015
+ *****************************/
+@font-face {
+    font-family: 'Pixel Cyr Normal';
+    src: local('Pixel Cyr Normal'), local('PixelCyr-Normal'),
+        url(https://vesp666.github.io/pixel-cyr-normal_121553396adc0078071014142a511443.woff) format('woff'),
+        url(https://vesp666.github.io/pixel-cyr-normal_121553396adc0078071014142a511443.ttf) format('truetype');
+}
